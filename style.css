@@ -1,0 +1,34 @@
+*{
+    text-align: center;
+}
+    body {
+    background-image: url("images/image.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    line-height: normal;
+}
+p{
+    line-height: normal;
+    text-align: center;
+}
+button{
+    background-color: lightseagreen;
+    color:white;
+    margin-top: 20;
+}
+#blue{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
+#white{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
